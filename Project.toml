@@ -3,6 +3,9 @@ uuid = "c37147bc-d8ce-4575-897d-76a03a2493f7"
 authors = ["Wimmerer <kimmerer@mit.edu> and contributors"]
 version = "0.1.0"
 
+[deps]
+SuiteSparseGraphBLAS = "c2e53296-7b14-11e9-1210-bddfa8111e1d"
+
 [compat]
 julia = "1.6"
 
